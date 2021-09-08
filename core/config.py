@@ -1,0 +1,1 @@
+data_path = '~/2021-nh-bigdata-competition/data/'
