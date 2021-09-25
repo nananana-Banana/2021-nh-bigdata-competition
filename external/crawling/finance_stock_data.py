@@ -1,7 +1,3 @@
-'''
-https://financedata.github.io/posts/finance-data-reader-users-guide
-한국 주식 가격, 미국주식 가격, 지수, 환율, 암호화폐 가격, 종목 리스팅 등 금융 데이터 수집 라이브러리
-'''
 import os
 import FinanceDataReader as fdr
 import pandas as pd
