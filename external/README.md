@@ -33,5 +33,5 @@ FinanceDataReader에서 정보를 가져오지 못한 **267개** 종목은 네�
 2812개 데이터의 평균 정보: `./result/mean_stockdata.csv`
 
 #### reference
-https://financedata.github.io
+https://financedata.github.io<br>
 https://github.com/Se-Hun/StockPrediction
