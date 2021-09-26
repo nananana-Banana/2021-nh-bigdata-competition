@@ -13,11 +13,11 @@ def data_save(output_dir, filename, dataset):
     dataset.to_csv(path)
 
 def main():
-    if os.path.exists("./stock_data"):
-        output_dir = "./stock_data"
+    if os.path.exists("./stockdata"):
+        output_dir = "./stockdata"
     else:
-        os.mkdir("./stock_data")
-        output_dir = "./stock_data"
+        os.mkdir("./stockdata")
+        output_dir = "./stockdata"
 
     dataset = pd.DataFrame()
     none_data = []
