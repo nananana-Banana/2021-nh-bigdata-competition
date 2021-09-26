@@ -22,7 +22,7 @@ def main():
     dataset = pd.DataFrame()
     none_data = []
 
-    filepath = 'code.csv'
+    filepath = './data/code.csv'
     code_file = pd.read_csv(filepath)
     code_list = code_file['iem_code'].str.strip()
 
