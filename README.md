@@ -1,5 +1,5 @@
 
-
+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
 # 2021년(제2회) NH투자증권 빅데이터 경진대회
 
 **금융 | NH투자증권 | 주식 보유기간 예측 | RMSE | 참가&입상자 특전**
