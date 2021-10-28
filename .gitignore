@@ -1,5 +1,4 @@
 /data
 model/notebooks/result/
 external/crawling/stockdata/
-external/API/
-external/marcap/
+*.csv
