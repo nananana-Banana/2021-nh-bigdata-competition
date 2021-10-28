@@ -25,3 +25,4 @@ used_features = ['byn_dt', 'high_mean', 'change_d', 'nsi', 'mean_amount',
        'mkt_pr_tal_scl_tp_cd', 'stk_dit_cd', 'iem_cd_te', 'bnc_qty',
        'tot_aet_amt', 'stk_par_pr', 'bnc_count', 'qty_change',
        'aet_amt_change', 'end_price', 'ivs_past_d_mean', 'past_d', 'hist_d']
+
