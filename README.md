@@ -15,6 +15,10 @@
 
 <br>
 
+### [모델 설명](https://github.com/nananana-Banana/2021-nh-bigdata-competition/blob/main/model/나나나나바나나_모델%20개발%20설명서.ipynb)
+
+ 
+  
 ## 분석 주제
 
 ### :large_orange_diamond:  예선 주제
